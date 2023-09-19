@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Tandoori Chicken",
+        "price": 240.0,
+        "no_of_plates": 4
+    },
+    {
+        "id": 2,
+        "name": "Vegan Burger",
+        "price": 320.0,
+        "no_of_plates": 1
+    },
+    {
+        "id": 3,
+        "name": "Truffle Cake",
+        "price": 900.0,
+        "no_of_plates": 500
+    }
+]

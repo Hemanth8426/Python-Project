@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Raj",
+        "password": "raj123@#",
+        "Email": "raj123@gmail.com",
+        "phone_number": "9490990832",
+        "address": "Visakhapatnam",
+        "order history": {
+            "15-09-2023": [
+                "Tandoori Chicken"
+            ]
+        }
+    }
+]
